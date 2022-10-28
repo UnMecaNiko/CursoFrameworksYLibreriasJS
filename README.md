@@ -42,7 +42,13 @@ Hay distintas estrategias para hacer render:
 
 Cada framework usa una estrategia distinta y es importante identificarlas para tener argumentos con los cuales elegir el que más se adapte a nuestras necesidades.
 
+## Librería
 
+Herramienta con una utilidad específica.
+
+## Framework
+
+Conjunto de herramientas que trabajan en un proyecto completo bajo ciertas reglas.
 
 
 # Fuentes de información
