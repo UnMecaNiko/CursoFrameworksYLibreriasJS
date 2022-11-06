@@ -98,6 +98,26 @@ Protocolos para comnicarse con el packet para enviar y recibir información de l
 
 La mejor forma de organizar una aplicación es organizarla por capas, esto es bueno en medida de que se puede trabajar en cada parte sin tener problemas con afectar las otras.
 
+# Contexto y funcionamiento de los Frameworks JavaScript
+
+## Qué es React y cómo se construyó
+
+> EcmaScript es la especiicación del lenguaje JS
+
+Jordan Walke creo React en mayo de 2013. Influenciado por el problema de implementación de anuncios de Facebook, eventualmente Reat se volvió open source, aunque sigue siendo de Facebook, luego llegaron las herramientas para debugging.
+
+Con el tiempo más y más empresas lo implementaron en sus páginas.
+
+### Caracteristicas de React
+
+- Declarative: Es fácil de entender y leer.
+- Component-Based.
+- Learn One, Write anywhere: React es multiplataforma.
+
+
+
+
+
 # Fuentes de información
 
 - [Basic writing and formatting syntax | GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -107,3 +127,5 @@ La mejor forma de organizar una aplicación es organizarla por capas, esto es bu
 - [Webpack and Rollup: the same but different](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
 
 - [¿Qué es CSS-in-JS?](https://platzi.com/clases/1601-react-avanzado/21258-que-es-css-in-js/)
+
+- [React](https://es.wikipedia.org/wiki/React)
