@@ -114,7 +114,9 @@ Con el tiempo más y más empresas lo implementaron en sus páginas.
 - Component-Based.
 - Learn One, Write anywhere: React es multiplataforma.
 
+### Componentes
 
+![](https://static.platzi.com/media/user_upload/9-diagrama-ciclo-de-vida-bdf72607-e2a8-44b4-a075-72296dafb7ce.jpg)
 
 
 
