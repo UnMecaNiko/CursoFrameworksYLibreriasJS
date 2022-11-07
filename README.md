@@ -118,7 +118,13 @@ Con el tiempo más y más empresas lo implementaron en sus páginas.
 
 ![](https://static.platzi.com/media/user_upload/9-diagrama-ciclo-de-vida-bdf72607-e2a8-44b4-a075-72296dafb7ce.jpg)
 
+## Qué es Angular y cómo se construyó
 
+Tiene un sistema para crea componentes llamado engine modules, agrupan componentes que acuden a un mismo fin.
+
+Componente: lógica e interfaz e usuario con el que la interacción es real. 
+
+Incemental DOM: cada componente se convierte en una instrucción por lo qu nose crean copias del DOM, así se ahorra memoria.         
 
 # Fuentes de información
 
@@ -131,3 +137,5 @@ Con el tiempo más y más empresas lo implementaron en sus páginas.
 - [¿Qué es CSS-in-JS?](https://platzi.com/clases/1601-react-avanzado/21258-que-es-css-in-js/)
 
 - [React](https://es.wikipedia.org/wiki/React)
+
+- [ReactSimple-PlatziIntroFrameworks - CodeSandbox](https://codesandbox.io/s/reactsimple-platziintroframeworks-zqenr?file=/src/App.js)
