@@ -120,11 +120,17 @@ Con el tiempo más y más empresas lo implementaron en sus páginas.
 
 ## Qué es Angular y cómo se construyó
 
-Tiene un sistema para crea componentes llamado engine modules, agrupan componentes que acuden a un mismo fin.
+Tiene un sistema para crea componentes llamado engine modules, agrupan componentes que acuden a un mismo fin. Angular es patrocinado por google pero no depende de él.
+
+En algún momento se decidió que angular se escribiría desde ero para implementar componentes. Así nació la versión 4. Desde ese momento se publican nuevas versiones compatibles con las anteriores.  
 
 Componente: lógica e interfaz e usuario con el que la interacción es real. 
 
-Incemental DOM: cada componente se convierte en una instrucción por lo qu nose crean copias del DOM, así se ahorra memoria.         
+Incemental DOM: cada componente se convierte en una instrucción por lo que no se crean copias del DOM, así se ahorra memoria.     
+
+Angular se programa en TypeScript, es un lenguaje tipado, orientado a objetos por lo que se recomienda especificar el tipo de las variables.
+
+En el archivo `index.html` se compila la aplicación con la etiqueta `<app-root></app-root>`
 
 # Fuentes de información
 
